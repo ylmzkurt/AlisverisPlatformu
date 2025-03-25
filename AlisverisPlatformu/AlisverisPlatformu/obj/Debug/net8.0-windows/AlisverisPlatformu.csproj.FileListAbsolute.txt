@@ -1,0 +1,16 @@
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\bin\Debug\net8.0-windows\AlisverisPlatformu.exe
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\bin\Debug\net8.0-windows\AlisverisPlatformu.deps.json
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\bin\Debug\net8.0-windows\AlisverisPlatformu.runtimeconfig.json
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\bin\Debug\net8.0-windows\AlisverisPlatformu.dll
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\bin\Debug\net8.0-windows\AlisverisPlatformu.pdb
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.Form1.resources
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.csproj.GenerateResource.cache
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.GeneratedMSBuildEditorConfig.editorconfig
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.AssemblyInfoInputs.cache
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.AssemblyInfo.cs
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.csproj.CoreCompileInputs.cache
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.dll
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\refint\AlisverisPlatformu.dll
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.pdb
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\AlisverisPlatformu.genruntimeconfig.cache
+C:\sayiTahmin\AlisverisPlatformu\AlisverisPlatformu\obj\Debug\net8.0-windows\ref\AlisverisPlatformu.dll
